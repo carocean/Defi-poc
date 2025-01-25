@@ -43,6 +43,9 @@ npm start
 
 ## Results
 - The window that pops up after clicking the "CONNECT WALLET" menu is shown below:
+  ![Home](https://github.com/carocean/Defi-poc/blob/main/doc/img/home.png)
+
+  After clicking:
   ![Connecting](https://github.com/carocean/Defi-poc/blob/main/doc/img/connecting.png)
 - The homepage after a successful connection is shown below:
   ![home](https://github.com/carocean/Defi-poc/blob/main/doc/img/connected_home.png)
