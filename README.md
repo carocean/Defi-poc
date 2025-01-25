@@ -43,8 +43,8 @@ npm start
 
 ## Results
 - The window that pops up after clicking the "CONNECT WALLET" menu is shown below:
-  [Connecting](https://github.com/carocean/Defi-poc/blob/main/doc/img/connecting.png)
+  ![Connecting](https://github.com/carocean/Defi-poc/blob/main/doc/img/connecting.png)
 - The homepage after a successful connection is shown below:
-  [home](https://github.com/carocean/Defi-poc/blob/main/doc/img/connected_home.png)
+  ![home](https://github.com/carocean/Defi-poc/blob/main/doc/img/connected_home.png)
 - Selecting "Copy Address" from the dropdown menu is shown below:
-  [combox](https://github.com/carocean/Defi-poc/blob/main/doc/img/combox.png)
+  ![combox](https://github.com/carocean/Defi-poc/blob/main/doc/img/combox.png)
