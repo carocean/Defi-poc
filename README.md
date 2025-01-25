@@ -23,4 +23,28 @@ cd Defi-poc
 npm i
 
 npm start
+# Below are the Test Results
 
+## Environment
+- Install Ganache CLI
+- Install the MetaMask plugin in the Firefox browser
+- Open the MetaMask wallet and import the Ganache accounts
+
+## Features
+> Add "Connect Wallet" feature
+- Click the "CONNECT WALLET" menu in the navigation bar
+- A "Connect Your Wallet" window pops up
+- Select the "MetaMask" wallet from the list
+- The popup window closes automatically after a successful connection
+- The "CONNECT WALLET" menu in the navigation bar changes to the wallet account address on the homepage
+- Clicking the wallet account address opens a dropdown menu
+- Select the "Copy Address" option from the dropdown menu
+- Feature completed
+
+## Results
+- The window that pops up after clicking the "CONNECT WALLET" menu is shown below:
+  [Connecting](http://github.com/#)
+- The homepage after a successful connection is shown below:
+  [home](http://github.com/#)
+- Selecting "Copy Address" from the dropdown menu is shown below:
+  [combox](http://github.com/#)
